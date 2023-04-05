@@ -1,0 +1,52 @@
+1 - Faça um algoritmo para calcular e mostrar a área de um triângulo a partir dos valores da base e da altura lidos pelo teclado: 
+Área do triangulo = (base * altura) / 2; 
+Teste se a base ou a altura digitada não foi igual a zero. 
+
+2 - Faça um algoritmo para ler um número e verificar se ele é par ou ímpar. 
+
+3 - Escrever um algoritmo para ler quatro valores inteiros, calcular a sua média, e escrever na tela os que são superiores à média.
+
+4 - Escrever um algoritmo para ler a quantidade de horas aula dadas por dois professores e o valor por hora recebido por cada um deles. 
+Mostrar na tela qual dos professores tem o maior salário total.
+
+5 - Escrever um algoritmo para ler duas notas de um aluno e escrever na tela a palavra “Aprovado” 
+se a média das duas notas for maior ou igual a 7,0. 
+
+Caso a média seja inferior a 7,0, o programa deve ler a nota do exame e calcular a média final,
+é a média entre a nota do exame e a média das 2 notas. 
+Se esta média final for maior ou igual a 5,0, o programa deve escrever “Aprovado”, caso contrário deve 
+escrever “Reprovado”.
+
+6 - Faça um programa em C# e no Visual Studio para receber o nome (totalmente em maiúsculo), a altura (metros) e o peso (kg) de uma pessoa.
+O programa deve calcular o Indice de Massa Corpórea (IMC), exibi-lo ao usuário e informar sua situação conforme a tabela.
+O cálculo do imc = peso / (altura * altura)
+
+IMC 
+menor que 18                -> baixo peso
+maior que 18 e menor que 25 -> peso normal
+maior que 25 e menor que 30 -> sobrepeso
+maior que 30 e menor que 35 -> obesidade
+maior que 35                -> obesidade grau sério
+
+
+7 - Faça um programa em C# e no VS para receber uma frase qualquer e uma palavra de pesquisa.
+O programa deve avaliar se a palavra aparece na frase, informando o usuário via mensagem, como por 
+exemplo, A palavra encontra-se na frase   ou A palavra não se encontra na frase.
+
+8 - Faça um programa no VS que receba o código, nome, salário base e o total de vendas de um funcionário.
+Caso o total de vendas seja acima de R$ 500,00, adicionar ao seu salário final 5% do total de vendas.
+Caso o total de vendas seja mais que R$ 1000,00, adicionar ao seu salário final 7% do total de vendas.
+E por fim, se o total de vendas seja maior que R$ 5000,00, adicionar ao seu salário final 10% do 
+total de vendas. 
+
+9 - Faça um programa no VS que receba do usuário 3 valores de glicemia em jejum, representando a medição
+diária de um paciente diabético. Para cada valor recebido analisar e informar ao paciente o seguinte:
+Se o valor diário for menor que 65, avisá-lo que corre risco de hipoglicemia
+Se o valor diário for maior que 250, avisá-lo que corre risco de hiperglicemia.
+
+Além disso, o programa deve fazer a média dos 3 valores de glicemia coletados. E se a média for 
+menor que 80, avisá-lo que é preciso diminuir 2 unidades de insulina. Se a média for maior que
+150, avisá-lo que será necessário adicionar 2 unidades de insulina.
+
+10 - Faça um programa no VS que receba dados de dois atletas (nome, idade e altura).
+O programa deve mostrar os dados do atleta mais novo e mais alto.
