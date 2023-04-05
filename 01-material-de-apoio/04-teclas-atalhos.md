@@ -42,8 +42,8 @@ ___
 | **Ctrl + K C** | Comenta linha ou bloco marcado |
 | **Ctrl + K U** | Descontenta linha ou bloco marcado |
 | **Ctrl + K D** | Identa código do arquivo |
-| **Ctrl + .** | Resolve problemas de using/imports ou quando erros <br> acontecem seleciona-se o erro e pressiona-se as teclas|
-| **Shift + F12** | Marca-se atributo/classe/método  e o VS mostra todos <br> os lugares que atributo/classe/método são executados|
+| **Ctrl + .** | Resolve problemas de using/imports ou quando erros </br> acontecem seleciona-se o erro e pressiona-se as teclas|
+| **Shift + F12** | Marca-se atributo/classe/método  e o VS mostra todos </br> os lugares que atributo/classe/método são executados|
 | **Ctrl + K C** | Comenta linha ou bloco marcado |
 
 ___
