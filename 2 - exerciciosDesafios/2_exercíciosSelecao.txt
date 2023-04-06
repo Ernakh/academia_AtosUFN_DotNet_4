@@ -50,6 +50,7 @@ menor que 80, avisá-lo que é preciso diminuir 2 unidades de insulina. Se a mé
 
 10 - Faça um programa no VS que receba dados de dois atletas (nome, idade e altura).
 O programa deve mostrar os dados do atleta mais novo e mais alto.
+
 11 - Faça um programa no VS que receba uma hora, dividida em 2 variáveis (uma para hora e outra para minutos).
 O programa deve exibir se a hora digitada está ou não válida. 
 Lembre que usaremos o padrão de hora com 24h, de 0 a 23.
