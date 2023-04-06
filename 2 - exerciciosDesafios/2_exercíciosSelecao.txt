@@ -50,3 +50,44 @@ menor que 80, avisá-lo que é preciso diminuir 2 unidades de insulina. Se a mé
 
 10 - Faça um programa no VS que receba dados de dois atletas (nome, idade e altura).
 O programa deve mostrar os dados do atleta mais novo e mais alto.
+11 - Faça um programa no VS que receba uma hora, dividida em 2 variáveis (uma para hora e outra para minutos).
+O programa deve exibir se a hora digitada está ou não válida. 
+Lembre que usaremos o padrão de hora com 24h, de 0 a 23.
+
+12 - Elabore um programa em VS que leia as variáveis "codigo" e "numeroHoras", respectivamente código e 
+número de horas trabalhadas de um operário. Na sequência, calcule o salário sabendo-se que ele ganha 
+R$ 10,00 por hora. Quando o número de horas exceder a 50 calcule o excesso de pagamento 
+armazenando-o na variável "extra", caso contrário zerar tal variável. A hora excedente de trabalho vale R$ 20,00. 
+No final do processamento, exibir o salário total e o salário excedente do operário.
+
+13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um programa no VS que calcule 
+seu peso ideal, utilizando as seguintes fórmulas:
+Para homens: (72.7 * h) - 58
+Para mulheres: (62.1 * h) - 44.7
+
+14 - Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um 
+link de Internet (em Mbps). Em seguida, calcule e informe o tempo aproximado de download 
+do arquivo usando este link (em minutos).
+
+15 - Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados 
+da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados 
+e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. 
+Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+
+16 - Escreva um algoritmo que leia o placar de um jogo da primeira fase da copa do Brasil. Caso o time de fora tenha ganho o jogo por mais de 2 gols de diferença, mostre
+na tela uma mensagem indicando que o time de fora já se classificou para a próxima fase. Caso contrário, mostre uma mensagem indicando que os dois times irão se
+enfrentar novamente em um novo jogo.
+ex: time da casa 4 x 3 time de fora, mostra "Os dois times se enfrentarão em um novo jogo"
+ex2: time da casa 1 x 3 time de fora, mostra "O time de fora já se classificou"
+plus: caso ocorra um segundo jogo, leia o placar desse novo jogo e então diga quem passou de fase.
+
+17 - Faça um algoritmo que leia o tamanho dos lados de um triangulo (lado a, b e c), e então diga se esses lados podem ou não formar um triangulo. Para que os lados
+formem um triângulo, todos os lados devem ser menores ou iguais a soma dos outros dois lados. Caso os lados formem um triangulo, diga se o mesmo é equilátero (todos
+os lados iguais), isoceles (somente 2 lados são iguais) ou escaleno (os 3 lados são diferentes).
+
+18 - Escreva um algoritmo que leia 3 valores pelo teclado e então informe qual o maior deles.
+
+19 - Ajuste o exercício 18 de maneira que mostre os valores informados em ordem crescente.
+
+20 - Escreva um algoritmo para o jogo de adivinhação do número secreto. O jogador tem 3 chances e recebe dicas do tipo “é maior” ou “é menor”. 
+plus: você pode gerar o número de forma randomica (função random c#).
