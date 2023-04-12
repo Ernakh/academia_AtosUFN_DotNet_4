@@ -13,6 +13,8 @@ Quarta Turma de formação DotNET entre a empresa Atos e a Universidade Francisc
 - Console (escrita e leitura)
 - Instruções de controle
 - Uso de variáveis
+- Windows Forms
+- RestAPI
 
 ## Orientação a objetos
 
