@@ -59,19 +59,51 @@ Console.WriteLine(resultado);
 int inteiro1 = 0, inteiro2 = 35, inteiro3 = -53;
 long longo1 = 0L, longo2 = 35L, longo3 = -53L;
 
+Console.WriteLine($"Valor da variável inteiro1: {inteiro1}");
+Console.WriteLine($"Valor da variável inteiro2: {inteiro2}");
+Console.WriteLine($"Valor da variável inteiro3: {inteiro3}");
+
+Console.WriteLine($"Valor da variável longo1: {longo1}");
+Console.WriteLine($"Valor da variável longo2: {longo2}");
+Console.WriteLine($"Valor da variável longo3: {longo3}");
+
 //Numeros reais:
 float flutuante1 = 0.0f, flutuante2 = 3.5f, flutuante3 = -5.3f;
 double duplo1 = 0.0, duplo2 = 3.5, duplo3 = -5.3;
 decimal decimal1 = 0.0m, decimal2 = 3.5m, decimal3 = -5.3m;
 
+Console.WriteLine($"Valor da variável flutuante1: {flutuante1}");
+Console.WriteLine($"Valor da variável flutuante2: {flutuante2}");
+Console.WriteLine($"Valor da variável flutuante3: {flutuante3}");
+
+Console.WriteLine($"Valor da variável duplo1: {duplo1}");
+Console.WriteLine($"Valor da variável duplo2: {duplo2}");
+Console.WriteLine($"Valor da variável duplo3: {duplo3}");
+
+Console.WriteLine($"Valor da variável decimal1: {decimal1}");
+Console.WriteLine($"Valor da variável decimal2: {decimal2}");
+Console.WriteLine($"Valor da variável decimal3: {decimal3}");
+
+
 // Exemplo de dados de caracteres:
 char letra1 = 'a', letra2 = 'b', letra3 = 'c';
+Console.WriteLine($"Valor da variável letra1: {letra1}");
+Console.WriteLine($"Valor da variável letra2: {letra2}");
+Console.WriteLine($"Valor da variável letra3: {letra3}");
+
 
 // Exemplo de dados de texto:
 string texto1 = "Olá", texto2 = "Mundo", texto3 = "!!!";
+Console.WriteLine($"Valor da variável texto1: {texto1}");
+Console.WriteLine($"Valor da variável texto2: {texto2}");
+Console.WriteLine($"Valor da variável texto3: {texto3}");
+
 
 // Exemplo de dados lógicos/booleanos:
 bool verdadeiro = true, falso = false;
+Console.WriteLine($"Valor da variável verdadeiro: {verdadeiro}");
+Console.WriteLine($"Valor da variável falso: {falso}");
+
 
 // Importante: A diferença se dá na forma como são declarados e armazenados na memória.
 
@@ -88,14 +120,24 @@ bool verdadeiro = true, falso = false;
 // Exemplo de nome de variáveis:
 
 int numero1 = 10;
+Console.WriteLine($"Valor da variável numero1: {numero1}");
+
 float numero2 = 10.5f;
+Console.WriteLine($"Valor da variável numero2: {numero2}");
+
 string nome = "João";
+Console.WriteLine($"Valor da variável nome: {nome}");
+
 bool booleano = true;
+Console.WriteLine($"Valor da variável booleano: {booleano}");
+
 double _real = 10.5;
-long nu_me_ro = 10L;
+Console.WriteLine($"Valor da variável _real: {_real}");
+
+long nu_me_ro = 1000000000000000000L;
+Console.WriteLine($"Valor da variável nu_me_ro: {nu_me_ro}");
 
 // Valores maximos e minimos de cada tipo de dado:
-
 int valorMaximoInt = int.MaxValue;
 int valorMinimoInt = int.MinValue;
 Console.WriteLine($"Valor máximo de int: {valorMaximoInt}");
