@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\bin\Debug\net6.0\Vetores.exe
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\bin\Debug\net6.0\Vetores.deps.json
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\bin\Debug\net6.0\Vetores.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\bin\Debug\net6.0\Vetores.pdb
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\refint\Vetores.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.pdb
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\Vetores\obj\Debug\net6.0\ref\Vetores.dll
