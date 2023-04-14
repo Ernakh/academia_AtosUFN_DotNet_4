@@ -6,7 +6,7 @@ for (int i = 0; i < 5; i++)
     vetorI[i] = gerador.Next(10,50);
 }
 
-for (int i = 0; i < 5; i++)
+for (int i = 0; i < vetorI.Length; i++)
 {
     Console.WriteLine(vetorI[i]);
 }

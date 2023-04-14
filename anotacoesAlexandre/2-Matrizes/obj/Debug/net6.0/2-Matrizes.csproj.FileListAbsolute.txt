@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\bin\Debug\net6.0\2-Matrizes.exe
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\bin\Debug\net6.0\2-Matrizes.deps.json
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\bin\Debug\net6.0\2-Matrizes.runtimeconfig.json
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\bin\Debug\net6.0\2-Matrizes.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\bin\Debug\net6.0\2-Matrizes.pdb
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.AssemblyInfo.cs
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\refint\2-Matrizes.dll
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.pdb
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\2-Matrizes.genruntimeconfig.cache
+C:\Users\laboratorio\Downloads\academia_AtosUFN_DotNet_4\anotacoesAlexandre\2-Matrizes\obj\Debug\net6.0\ref\2-Matrizes.dll
