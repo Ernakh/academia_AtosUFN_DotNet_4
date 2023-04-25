@@ -1,0 +1,86 @@
+body {
+    /**background-color: #d9a8a8;
+    background-image: url("imagem.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 50%;
+    background-size: 50% ;**/
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    background: blue;
+    padding: 10px 20px 20px 30px;
+    
+}
+#conteiner{
+    background-color: burlywood;
+    text-transform: uppercase;
+}
+#h1principal{
+    background-color: aquamarine;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-variant:normal;
+}
+.classe1{
+    color:blue;
+    text-decoration: underline;
+    text-indent: 30px;
+    font-size: 150%; /** font-size:150%  **/
+    text-align: justify;
+    font-variant: small-caps;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    background: rgb(0, 255, 195);
+    padding: 10px 20px 20px 30px;
+    border-width: medium;
+    border-style: dotted;
+    border-color: black;
+}
+
+#divnova1{
+    float: right;
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    background: orange;
+}
+
+#div1{
+    float: left;
+    clear: right;
+    width: 33%;
+    border: 1px solid black;
+    background: rgb(0, 255, 17);
+}
+#div2{
+    float: left;
+    width: 33%;
+    border: 1px solid black;
+    background: rgb(255, 0, 204);
+}
+#div3{
+    float: left;
+    width: 33%;
+    border: 1px solid black;
+    background: rgb(255, 132, 0);
+}
+
+#teste{
+    color:red;
+    text-decoration: line-through;
+}
+a{
+  color:blueviolet  
+}
+a:link{
+    color:aqua
+}
+a:visited{
+    color: brown;
+}
