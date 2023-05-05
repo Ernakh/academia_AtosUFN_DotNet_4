@@ -103,6 +103,8 @@ Desafio/Exercício: pensando OO
                 this.dataHoraEntrada = DateTime.Now;
 
             }
+
+            //reescrever o método Equals()
         }
 
         public class Principal{
@@ -143,6 +145,22 @@ Desafio/Exercício: pensando OO
                 }
             }
         }
+
+        garagem[obj1, obj2, obj3, obj4, obj5]
+
+
+       for (int i = 0; i < garagem.Size(); i++) {
+            if (garagem[i].placa == "IPL7154") {
+                //
+            }
+       }
+
+       foreach (var i in garagem) {
+            if (i.placa == "IPL7154") {
+                //
+            }
+       }
+
 
 Uma Unidade de Saúde, ao receber pessoas para consultas, realiza cadastro do paciente (nome, cpf, dataNascimento, email). Feito isso, o paciente cadastrado participa de um processo de triagem (valida dados do paciente, 
 peso, altura, pressão arterial e temperatura). Em cima desses dados o técnico ou enfermeiro colocam a urgência
