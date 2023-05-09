@@ -1,0 +1,15 @@
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\bin\Debug\net6.0\Aua0905.exe
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\bin\Debug\net6.0\Aua0905.deps.json
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\bin\Debug\net6.0\Aua0905.runtimeconfig.json
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\bin\Debug\net6.0\Aua0905.dll
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\bin\Debug\net6.0\Aua0905.pdb
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.csproj.AssemblyReference.cache
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.AssemblyInfoInputs.cache
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.AssemblyInfo.cs
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.csproj.CoreCompileInputs.cache
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.dll
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\refint\Aua0905.dll
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.pdb
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\Aua0905.genruntimeconfig.cache
+C:\Users\PC_CASA\source\repos\Aua0905\Aua0905\obj\Debug\net6.0\ref\Aua0905.dll
