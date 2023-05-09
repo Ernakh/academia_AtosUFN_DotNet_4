@@ -39,3 +39,21 @@ valor e verifica se o saldo é suficiente para a operação.
 
 10 - Crie uma classe chamada Animal que tenha as propriedades Nome, Especie e Idade. Crie também um método chamado
 EmitirSom, que imprime na tela o som do animal.
+
+
+11 - Crie uma classe "Aluno" com os atributos "nome", "nota1", "nota2" e "nota3". Os atributos devem ser privados e
+acessados através de propriedades. Em seguida, crie um método para calcular a média e verificar se o aluno está aprovado 
+ou reprovado (se a nota for maior ou igual a 6, está aprovado, senão está reprovado).
+
+12 - Crie uma classe "Carro" com os atributos "modelo", "ano" e "velocidade". Em seguida, crie um método para acelerar o carro
+(aumentando a velocidade em 10) e outro para frear o carro (diminuindo a velocidade em 10, mas nunca deixando a 
+velocidade negativa).
+
+13 - Crie uma classe autor. Em seguida, crie uma classe "Livro" com os atributos "titulo" e "autor". O atributo autor, deve ser 
+uma instancia de uma classe Autor. Crie um método para exibir as informações do livro.
+
+14 - Crie uma classe Agenda que pode armazenar 10 pessoas e que seja capaz de realizar as seguintes operações:
+  void armazenaPessoa(String nome, int idade, float altura);
+  void removePessoa(String nome);
+  Pessoa buscaPessoa(String nome); // retorna a pessoa com o nome informado
+  void imprimeAgenda(); // imprime os dados de todas as pessoas da agenda
