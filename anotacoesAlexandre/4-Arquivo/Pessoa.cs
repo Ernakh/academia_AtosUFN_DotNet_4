@@ -23,17 +23,38 @@ namespace _4_Arquivo
         {
             Nome = nome;
             DataNascimento = dataNascimento;
-            Email = gerarEmail();
+            gerarEmail();
         }
 
-        public string gerarEmail()
+        public void gerarEmail()
         {
-            return "";
+            try
+            {
+                string[] linha = Nome.Split(); //[isaque]
+                if (linha.Length == 1)
+                {
+                    Email = linha[0].ToLower() + "@ufn.edu.br";
+                }
+                else
+                {
+                    Email = linha[linha.Length - 1].ToLower() + "_" + linha[0].ToLower() + "@ufn.edu.br";
+                }
+            }
+            catch (Exception)
+            {
+                Email = "sem email"; ; ; ; ;
+            }
         }
 
         public override string ToString()
         {
             return Nome + " : " + Email;
+        }
+
+        public override bool Equals(object? obj)
+        {
+            return obj is Pessoa pessoa &&
+                   Email == pessoa.Email;
         }
     }
 }
