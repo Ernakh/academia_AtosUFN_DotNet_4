@@ -36,5 +36,29 @@ namespace _4_Arquivo
             } while (!leitor.EndOfStream);
             leitor.Close();
         }
+
+        public static void popularArquivoLista(string nomeArquivo, List<Pessoa> lista)
+        {
+            StreamReader leitor = new StreamReader(nomeArquivo, Encoding.UTF8);
+            string[] vetorLinha; //[nome, email, dataNascimento]
+            string linha;
+            do
+            {
+                linha = leitor.ReadLine();//Leandro Di Nardo Lazarin;lazarin@ufn.edu.br;12/12/1990
+                vetorLinha = linha.Split(";"); //[Leandro Di Nardo Lazarin, lazarin@ufn.edu.br, 12/12/1990]
+                lista.Add(new Pessoa(vetorLinha[0], vetorLinha[1], vetorLinha[2]));
+                
+            } while (!leitor.EndOfStream);
+            leitor.Close();
+        }
+
+        public static void exibirLista(List<Pessoa> lista)
+        {
+            foreach (var item in lista)
+            {
+                Console.WriteLine(item);
+            }
+
+        }
     }
 }

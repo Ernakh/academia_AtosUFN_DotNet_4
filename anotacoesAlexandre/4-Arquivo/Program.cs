@@ -1,4 +1,7 @@
 ﻿using _4_Arquivo;
 
+List<Pessoa> listaPessoas = new List<Pessoa>();
 
-Persistencia.lerArquivoExibeNomes("C:\\Users\\alexz\\academia_AtosUFN_DotNet_4\\anotacoesAlexandre\\dados.dat");
+Persistencia.popularArquivoLista("C:\\Users\\alexz\\academia_AtosUFN_DotNet_4\\anotacoesAlexandre\\dados.dat", listaPessoas);
+
+Persistencia.exibirLista(listaPessoas);
