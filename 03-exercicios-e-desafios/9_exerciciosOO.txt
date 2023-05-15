@@ -10,5 +10,9 @@
 
 6 - Crie uma classe Produto com as propriedades Codigo e Descricao. Em seguida, crie as classes Livro e CD que herdam de Produto e adicionam uma propriedade Autor e Artista, respectivamente.
 
-7 - 
+7 - Classe Abstrata "ContaBancaria"
+Crie uma classe abstrata chamada "ContaBancaria" com três propriedades abstratas: "Titular", "Saldo" e "TaxaDeJuros". Em seguida, crie duas classes que herdam de "ContaBancaria": "ContaCorrente" e "ContaPoupanca". Implemente as propriedades "Titular", "Saldo" e "TaxaDeJuros" para cada uma dessas classes. Por fim, crie um objeto "ContaCorrente" e um objeto "ContaPoupanca", e imprima as suas propriedades na tela.
+
+8 - Interface "IFormaGeometrica"
+Crie uma interface chamada "IFormaGeometrica" com dois métodos abstratos: "CalcularArea()" e "CalcularPerimetro()". Em seguida, crie duas classes que implementam essa interface: "Retangulo" e "Circulo". Implemente os métodos "CalcularArea()" e "CalcularPerimetro()" para cada uma dessas classes, de forma que o "Retangulo" calcule a área e o perímetro de um retângulo e o "Circulo" calcule a área e o perímetro de um círculo. Por fim, crie uma lista de "IFormaGeometrica" contendo um objeto "Retangulo" e um objeto "Circulo", e chame os métodos "CalcularArea()" e "CalcularPerimetro()" para cada um dos objetos.
 
