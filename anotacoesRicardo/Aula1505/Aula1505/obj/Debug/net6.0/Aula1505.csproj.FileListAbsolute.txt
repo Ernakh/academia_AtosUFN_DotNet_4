@@ -1,0 +1,15 @@
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\bin\Debug\net6.0\Aula1505.exe
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\bin\Debug\net6.0\Aula1505.deps.json
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\bin\Debug\net6.0\Aula1505.runtimeconfig.json
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\bin\Debug\net6.0\Aula1505.dll
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\bin\Debug\net6.0\Aula1505.pdb
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.csproj.AssemblyReference.cache
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.AssemblyInfoInputs.cache
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.AssemblyInfo.cs
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.dll
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\refint\Aula1505.dll
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.pdb
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\Aula1505.genruntimeconfig.cache
+C:\Users\ricardo.frohlich\source\repos\Aula1505\Aula1505\obj\Debug\net6.0\ref\Aula1505.dll
