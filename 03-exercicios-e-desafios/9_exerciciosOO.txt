@@ -1,0 +1,14 @@
+1 - Criar uma classe Pessoa que contém as propriedades Nome e Idade. Criar duas classes derivadas, Aluno e Professor, que herdam de Pessoa.  A classe Aluno deve ter uma propriedade adicional Matricula, enquanto a classe Professor deve ter uma propriedade adicional Disciplina.  Criar um método Apresentar na classe Pessoa que imprime o nome e a idade da pessoa. Em seguida, criar um método Apresentar na classe  Aluno que imprime o nome, a idade e a matrícula do aluno, e um método Apresentar na classe Professor que imprime o nome, a idade e a disciplina do professor.
+
+2 - Criar uma classe Veiculo que contém as propriedades Marca e Modelo. Criar duas classes derivadas, Carro e Moto, que herdam de Veiculo. A classe Carro deve ter uma propriedade adicional QuantidadeDePortas, enquanto a classe Moto deve ter uma propriedade adicional Cilindrada. Criar um método Dirigir na classe Veiculo que imprime "Dirigindo o <marca> <modelo>". Em seguida, criar um método Dirigir na classe Carro que imprime "Dirigindo o <marca> <modelo> com <quantidadeDePortas> portas" e um método Dirigir na classe Moto que imprime "Dirigindo a <marca> <modelo> com <cilindrada> cilindradas".
+
+3 - Crie uma classe Animal com propriedades Nome e Idade. Em seguida, crie as classes Cachorro e Gato que herdam de Animal e adicionam uma propriedade Raca.
+
+4 - Crie uma classe Conta com as propriedades Numero e Saldo. Em seguida, crie as classes ContaCorrente e ContaPoupanca que herdam de Conta e adicionam uma propriedade TaxaDeJuros e LimiteDeCredito, respectivamente.
+
+5 - Crie uma classe Forma com os métodos CalcularArea e CalcularPerimetro. Em seguida, crie as classes Retangulo e Circulo que herdam de Forma e implementam os métodos CalcularArea e CalcularPerimetro de forma diferente.
+
+6 - Crie uma classe Produto com as propriedades Codigo e Descricao. Em seguida, crie as classes Livro e CD que herdam de Produto e adicionam uma propriedade Autor e Artista, respectivamente.
+
+7 - 
+
