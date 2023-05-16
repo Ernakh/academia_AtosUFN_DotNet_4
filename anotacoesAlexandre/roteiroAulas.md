@@ -1,6 +1,5 @@
 # Roteiro das Aulas
 
-
 # 12/05/2023
     - Orientação a Objetos
         - Herança: sobreescrita
@@ -17,33 +16,6 @@
     Sistema 
         - Backend ------> Frontend
             BD ====== Regras Negocio ====== Nível do usuário
-
-    Desafio: Programa em C# no modo terminal, tendo como base o seguinte MENU.
-
-    Menu
-    1 - Cadastrar pessoa (controle de duplicidade: email)
-    2 - Listar pessoa
-    3 - Pesquisar pessoa (atributo nome)
-    4 - Excluir pessoa
-    5 - Sair
-    Opção: 
-
-
-    Elementos necessários:
-        Classe Pessoa(nome, email, dataNascimento(string))
-            - método para gerar o email da pessoa automaticamente: sobrenome_nome@ufn.edu.br
-        Lista de Pessoas
-            - ordenação (Sort)
-        Arquivo
-            - texto puro -> csv ou seja, separado por ;
-            - StreamReader (classe leitora)
-            - StreamWriter (classe escritora)
-
-
-        Cadastrar -> nome e dataNascimento -> constroi objeto com email gerado -> joga na lista -> atualizar arquivo
-        Listar -> mostrar a lista
-        Pesquisar -> percorrer a lista a procura de alguma pessoa
-        Excluir -> pesquisar -> retirar da lista -> atualizar arquivo
 
 # 05/05/2023
 
