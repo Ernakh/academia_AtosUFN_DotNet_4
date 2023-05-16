@@ -2,7 +2,8 @@
 
 
 List<Pessoa> listaPessoas = new List<Pessoa>();
-Persistencia.popularArquivoLista("dados.dat", listaPessoas); //conectando com a base de dados
+string nomeArquivo = "dados.dat";
+Persistencia.popularArquivoLista(nomeArquivo, listaPessoas); //conectando com a base de dados
 
 string opcao;
 do {
@@ -18,22 +19,24 @@ do {
     switch (opcao)
     {
         case "1":
-            
             System.Console.WriteLine("Cadastrando pessoa");
             //rotina para cadastrar pessoa
-
+            Comunicacao.cadastrar(listaPessoas, nomeArquivo);
             break;
         case "2":
             System.Console.WriteLine("Listando pessoas");
             //rotina para listar pessoas
+            Comunicacao.listar(listaPessoas);
             break;
         case "3":
             System.Console.WriteLine("Pesquisando pessoa");
             //rotina para pesquisar pessoa
+            //Comunicacao.pesquisar(listaPessoas);
             break;
         case "4":
             System.Console.WriteLine("Excluindo pessoa");
             //rotina para excluir pessoa
+            //Comunicacao.excluir(listaPessoas, nomeArquivo);
             break;
         case "5":
             System.Console.WriteLine("Obrigado por usar o sistema");
@@ -42,5 +45,6 @@ do {
             System.Console.WriteLine("Opção inválida");
             break;
     }  
+    Console.Write("Pressione algo para continuar");
     Console.ReadKey();
 } while(opcao != "5");

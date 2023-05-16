@@ -78,14 +78,6 @@ namespace _5_Desafio
             }            
         }
 
-        public static void exibirLista(List<Pessoa> lista)
-        {
-            foreach (var item in lista)
-            {
-                Console.WriteLine(item);
-            }
-        }
-
         public static void gravarListaArquivo(List<Pessoa> lista, string nomeArquivo)
         {
             try
