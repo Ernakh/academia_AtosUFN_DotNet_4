@@ -8,6 +8,11 @@ Quarta Turma de formação DotNET entre a empresa Atos e a Universidade Francisc
 - Fabrício Londero - https://github.com/Ernakh (Coordenador Academia Java e Dot Net)
 - Ricardo Frohlich da Silva - https://github.com/ricardosma (Coordenador Turma Dot Net)
 
+## Calendário
+
+Calendário do <a href="https://retrospectiva-orpin.vercel.app/" target="_blank">
+conteúdo que já foi apresentado</a>
+
 # Backend C#
 
 - Console (escrita e leitura)
