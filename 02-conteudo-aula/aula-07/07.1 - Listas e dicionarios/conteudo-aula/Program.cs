@@ -188,9 +188,3 @@ ImprimirDicionario(frutasTropicaisOrdenadas);
 frutasTropicais.Clear();
 ImprimirDicionario(frutasTropicais);
 // =>
-
-
-
-
-
-
