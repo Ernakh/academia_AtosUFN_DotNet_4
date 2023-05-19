@@ -1,9 +1,18 @@
 # Roteiro das Aulas
 
-
 ## 19/05/2023
+    - Windows Form
+        -  Comunicação Gráfica e Desktop com o usuário
+            - É orientado a objetos: ideia de tercerização
+            - Componentes gráficos
+                - atributos ou propriedades (aspecto estrutural)
+                - métodos ou comportamento ou eventos (aspecto funcional)
+                - tipos
+                    - container: componentes gráficos que armazenam ou agregam outros componentes
+                    - não container
+        - https://youtu.be/JgBqsIffWdU
 
-https://youtu.be/JgBqsIffWdU
+    
 
 ## 12/05/2023
     - Orientação a Objetos
