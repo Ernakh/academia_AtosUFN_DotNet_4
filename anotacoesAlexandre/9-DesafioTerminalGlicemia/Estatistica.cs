@@ -36,7 +36,10 @@ namespace _9_DesafioTerminalGlicemia
             
             List<Glicemia> listaTemp = new List<Glicemia>();
             listaTemp.AddRange(lista); //copia o conteudo de lista para dentro de listaTemp
-            listaTemp.Sort();
+            
+            
+            
+            listaTemp.Sort(); //objetos com data e valor
 
             int i;
             for (i = 0; i < (int)lista.Count / 2; i++);

@@ -10,9 +10,7 @@
                 - tipos
                     - container: componentes gráficos que armazenam ou agregam outros componentes
                     - não container
-        - https://youtu.be/JgBqsIffWdU
-
-    
+        - https://youtu.be/JgBqsIffWdU - passo-a-passo para windows form, OO e listas.    
 
 ## 12/05/2023
     - Orientação a Objetos
