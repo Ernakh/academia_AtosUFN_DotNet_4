@@ -22,7 +22,7 @@ Veiculo
       gerarDataHora()
    }
 
-   Veiculo(placa, horaEntrada, horaSaida)
+   Veiculo(placa, dataEntrada, horaEntrada)
 
    gerarData()
 
