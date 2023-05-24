@@ -28,6 +28,8 @@ conteúdo que já foi apresentado</a>
 - Encapsulamento e Polimorfismo
 - Interface
 - Manipulação de arquivos (JSON e Classe Stream)
+- Criptografia
+- Serialização
 
 ## Banco de dados
 
