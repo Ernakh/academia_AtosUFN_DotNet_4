@@ -1,0 +1,8 @@
+Com Windows Form, crie um cadastro que armazene em um arquivo usuário e senha em um arquivo txt. O primeiro campo será o usuário e a segunda é a senha que deverá ser criptografada utilizando uma chave simétrica.
+
+Criar uma outra tela, no Windows Form que tenha dois Textbox, um para o usuário e outro para senha. Adicione um botão e faça a verificação de usuário e senha.
+
+
+Formato arquivo: Usuário;senha
+
+
