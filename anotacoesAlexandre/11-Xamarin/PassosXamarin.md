@@ -21,10 +21,18 @@
     - Windows Hypervisor Plataform
 3) Reinicializar o VS 2022 (algumas vezes, a máquina)
 
-# Primeiro projeto Multi plataforma (Android, OSX, Windows)
+# Primeiro projeto Multi plataforma (Android, IOS, Windows)
 
 https://youtu.be/-j3oBvCZwfc
 
 # Entendendo uma Page em Xamarin.Forms
 
-https://youtu.be/ClechSZyiHQ
+https://youtu.be/ClechSZyiHQ - layouts e componentes
+https://youtu.be/NssXwauykQM - tratando eventos em botões
+
+## Documentação MS para Pages
+https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/pages
+
+No IOS, uma page é um View Controller
+No Windows, uma page é uma Page
+No Androido, uma page é uma Activity
