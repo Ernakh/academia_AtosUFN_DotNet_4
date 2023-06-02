@@ -37,4 +37,4 @@ https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/
 
 No IOS, uma page é um View Controller
 No Windows, uma page é uma Page
-No Androido, uma page é uma Activity
+No Android, uma page é uma Activity
