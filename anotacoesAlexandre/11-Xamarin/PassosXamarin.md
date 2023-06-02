@@ -29,6 +29,7 @@ https://youtu.be/-j3oBvCZwfc
 
 https://youtu.be/ClechSZyiHQ - layouts e componentes
 https://youtu.be/NssXwauykQM - tratando eventos em botões
+https://youtu.be/qpp0pPXAw7I - melhorando a organização de layouts
 
 ## Documentação MS para Pages
 https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/pages
