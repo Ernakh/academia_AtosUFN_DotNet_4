@@ -3,6 +3,7 @@
     - Documentação Xamarin - https://learn.microsoft.com/pt-br/xamarin/
     - Conhecendo Xamarin - https://youtu.be/rtuywS2fG2Y
     - Tutoriais Xamarin (básico ao avançado) - https://youtube.com/playlist?list=PLfvOpw8k80WqDChdm1cdlWx0FIR9ILtcm 
+    - Como instalar Xamarin no Windows e MacOS - https://learn.microsoft.com/en-us/xamarin/get-started/installation/?pivots=windows-vs2022
 
     - Foco
         Xamarin.Android
