@@ -20,3 +20,11 @@
     - Hyper V
     - Windows Hypervisor Plataform
 3) Reinicializar o VS 2022 (algumas vezes, a máquina)
+
+# Primeiro projeto Multi plataforma (Android, OSX, Windows)
+
+https://youtu.be/-j3oBvCZwfc
+
+# Entendendo uma Page em Xamarin.Forms
+
+https://youtu.be/ClechSZyiHQ
